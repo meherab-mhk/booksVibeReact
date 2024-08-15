@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Dating Playbook For Men",
+    "author": "F. Scott Fitzgerald",
+    "image": "/book1.png",
+    "review": "A timeless classic that explores the extravagance and shallowness of the Jazz Age.",
+    "totalPages": 180,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": ["Classics", "Romance", "Tragedy"],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 2,
+    "bookName": "Why do you hate Money?",
+    "author": "George Orwell",
+    "image": "/book2.png",
+    "review": "A chilling dystopian novel that remains eerily relevant in today's world.",
+    "totalPages": 328,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": ["Dystopian", "Political", "Satire"],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 3,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "/book3.png",
+    "review": "A powerful story about racial injustice, morality, and the loss of innocence.",
+    "totalPages": 281,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": ["Coming of Age", "Social Issues", "Legal Drama"],
+    "publisher": "J. B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "/book4.png",
+    "review": "A compelling portrayal of adolescent angst and alienation.",
+    "totalPages": 224,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": ["Literary Fiction", "Cultural", "Coming of Age"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "bookId": 5,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "/book5.png",
+    "review": "A delightful romantic comedy that satirizes societal expectations.",
+    "totalPages": 279,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": ["Romance", "Classic Literature", "Satire"],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813
+  },
+  {
+    "bookId": 6,
+    "bookName": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "/book6.png",
+    "review": "An enchanting tale of adventure and courage in the face of danger.",
+    "totalPages": 310,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": ["Adventure", "Epic Fantasy", "Quest"],
+    "publisher": "George Allen & Unwin",
+    "yearOfPublishing": 1937
+  }
+]

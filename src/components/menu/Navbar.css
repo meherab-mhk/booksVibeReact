@@ -1,0 +1,6 @@
+.active {
+  border: 1px solid rgb(254, 106, 106);
+  color: rgb(254, 106, 106);
+  border-radius: 8px;
+  padding: 14px 20px;
+}
